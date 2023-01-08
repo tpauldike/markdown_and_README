@@ -19,5 +19,5 @@ A numbered list (or ordered list) looks like this and it could be nested, as you
 	- Nested item 3
 2. The second item
 
-This is a hyperlink. [Oghenemaro **Great**](https://github.com/AkposGreatma) and [Godstime Okeke]((https://github.com/godstimeikoba)
+This is a hyperlink. [Oghenemaro **Great**](https://github.com/AkposGreatma) and [Godstime Okeke](https://github.com/godstimeikoba)
 
